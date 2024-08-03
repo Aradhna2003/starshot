@@ -1,0 +1,10 @@
+{
+    "name": "drupal/starshot_installer",
+    "type": "drupal-profile",
+    "description": "Provides install-time tweaks for Starshot. Not to be used in production.",
+    "version": "dev-main",
+    "require": {
+        "drupal/core": ">=10.3",
+        "symfony/process": "^6.4 || ^7"
+    }
+}
